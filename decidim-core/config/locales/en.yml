@@ -217,6 +217,10 @@ en:
         name: Highlighted content banner
       how_to_participate:
         name: How to participate
+      last_activity:
+        name: Last activity
+        view_all: View all
+        title: Last activity
       stats:
         name: Organization stats
       sub_hero:
