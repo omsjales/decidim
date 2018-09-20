@@ -20,6 +20,7 @@
 - **decidim-core**: Add an HTML content block [\#4134](https://github.com/decidim/decidim/pull/4134)
 - **decidim-consultations**: Add a "Highlighted consultations" content block [\#4137](https://github.com/decidim/decidim/pull/4137)
 - **decidim-admin**: Adds a link to the admin navigation so users can easily access the public page. [\#4126](https://github.com/decidim/decidim/pull/4126)
+- **decidim-proposals**: Let admins edit official proposals from the admin. They have the same restrictions as normal users form the public area [\#4150](https://github.com/decidim/decidim/pull/4150)
 
 **Changed**:
 
